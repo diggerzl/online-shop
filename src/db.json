@@ -1,0 +1,247 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "SAMSUNG 50-inch Class Crystal UHD TU-8000 Series - 4K UHD HDR Smart TV with Alexa Built-in (UN50TU8000FXZA, 2020 Model)",
+      "price": 500,
+      "category": "TV",
+      "rating": 3.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71RiQZ0J2SL._AC_SL1000_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "TCL 32\" 3-Series 720p ROKU Smart TV - 32S335",
+      "price": 329,
+      "category": "TV",
+      "rating": 2.3,
+      "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "https://m.media-amazon.com/images/I/61ficuy07aL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Samsung Electronics UN32N5300AFXZA 32\" 1080p Smart LED TV (2018), Black",
+      "price": 320,
+      "category": "TV",
+      "rating": 4.2,
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem",
+      "image": "https://m.media-amazon.com/images/I/91UsHjAPTlL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "SAMSUNG QN32Q50RAFXZA Flat 32\" QLED 4K 32Q50 Series Smart TV",
+      "price": 399,
+      "category": "TV",
+      "rating": 1.5,
+      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur",
+      "image": "https://m.media-amazon.com/images/I/51NKhnjhpGL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Hisense 32-Inch Class H4 Series LED Roku Smart TV with Alexa Compatibility (32H4F, 2020 Model)",
+      "price": 377,
+      "category": "TV",
+      "rating": 4.1,
+      "description": "Integer molestie lorem nisi, vel venenatis est sodales quis. Praesent ex nibh, malesuada nec fermentum id, egestas nec dui. Proin a enim et leo gravida scelerisque. Vivamus sed velit non tellus tristique vulputate. Ut malesuada eleifend tempor. Quisque ac felis turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean ut lacus ligula.",
+      "image": "https://m.media-amazon.com/images/I/71gzlKauNQL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "LG 22LJ4540 TV, 22-Inch 1080p IPS LED - 2017 Model",
+      "price": 199,
+      "category": "TV",
+      "rating": 2.8,
+      "description": "Suspendisse potenti. Etiam ultrices ipsum eu lacus bibendum rhoncus. Pellentesque nec ex ipsum. Etiam convallis dapibus metus in molestie. Sed efficitur ut diam nec venenatis. Sed massa lectus, pellentesque vitae accumsan quis, cursus vel velit. Maecenas sodales non nisl ac dapibus.",
+      "image": "https://m.media-amazon.com/images/I/81NZaNRrvDL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Vizio D32F-G D-Series 32\" Class 1080p LED LCD Smart Full-Array LED LCD TV (2019 Model) (Renewed)",
+      "price": 166,
+      "category": "TV",
+      "rating": 0.5,
+      "description": "Etiam ultricies libero nec orci cursus, vitae rutrum enim tincidunt. Donec ac augue vitae justo egestas tempor sed et leo. Donec quis lectus quis tortor vestibulum bibendum nec vel tortor. Duis eu dapibus nisl. Sed placerat elit nec tempor malesuada. Vestibulum iaculis enim lacus, ut pharetra ipsum facilisis a. Sed varius erat ut metus ultrices, non porta tellus molestie. In hac habitasse platea dictumst.",
+      "image": "https://m.media-amazon.com/images/I/71EDcJ5oK4L._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Samsung Galaxy S20 FE 5G | Factory Unlocked Android Cell Phone | 128 GB | US Version Smartphone | Pro-Grade Camera, 30X Space Zoom, Night Mode | Cloud Navy",
+      "price": 588,
+      "category": "phone",
+      "rating": 1.9,
+      "description": "Donec egestas sollicitudin elit, eu pellentesque sapien luctus et. Sed iaculis sapien ut nunc finibus, at faucibus massa porttitor. Donec viverra, tellus et tincidunt ultrices, ante sapien mollis tortor, ac lobortis quam diam a turpis. Nunc euismod vitae lectus eu porttitor. Nam commodo pretium elit et blandit. ",
+      "image": "https://m.media-amazon.com/images/I/71z2dc+XnrL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Moto G Power | 3-Day Battery1 | Unlocked | Made for US by Motorola | 4/64GB | 16MP Camera | 2020 | Black",
+      "price": 567,
+      "category": "phone",
+      "rating": 4.5,
+      "description": "Donec non velit nec ante ornare commodo sollicitudin vitae neque. Nullam bibendum, magna vitae suscipit rutrum, odio quam imperdiet erat, ut lobortis lectus magna porta sapien. Nam dignissim feugiat turpis nec iaculis. Praesent feugiat felis lectus, id tincidunt odio dignissim et. ",
+      "image": "https://m.media-amazon.com/images/I/81ZronJUUPL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 10,
+      "title": "OnePlus 8 Pro Ultramarine Blue, 5G Unlocked Android Smartphone U.S Version, 12GB RAM+256GB Storage, 120Hz Fluid Display,Quad Camera, Wireless Charge, with Alexa Built-in",
+      "price": 1000,
+      "category": "phone",
+      "rating": 4.9,
+      "description": "Quisque a est venenatis, convallis libero eget, placerat diam. Proin eu elit faucibus, sodales purus sed, pellentesque metus. Quisque enim mi, posuere vehicula massa vel, finibus condimentum nisi. Nulla vestibulum mi vel sagittis vehicula. Donec a orci hendrerit, consequat dui a, ultricies felis. Duis eget lectus mollis, euismod ipsum vel, dictum urna. Nunc tristique neque congue ipsum lacinia molestie.",
+      "image": "https://m.media-amazon.com/images/I/410mmBW-AYL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Google Pixel 4a - New Unlocked Android Smartphone - 128 GB of Storage - Up to 24 Hour Battery - Just Black",
+      "price": 888,
+      "category": "phone",
+      "rating": 4.7,
+      "description": "Quisque ornare interdum felis id suscipit. Donec malesuada mattis sem ut commodo. Proin in orci eu nunc semper ornare a ac nibh. Ut sit amet aliquet tortor. Vestibulum convallis ante vel dui condimentum, quis congue felis finibus. Quisque laoreet vitae libero ac tincidunt. Nulla mattis diam eget elit fringilla dapibus.",
+      "image": "https://m.media-amazon.com/images/I/71Q8gm97H8L._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 12,
+      "title": "BLU G90 Pro – 6.5” HD+ Gaming Smartphone, Quad Camera, 128GB+4GB RAM – Purple Haze",
+      "price": 220,
+      "category": "phone",
+      "rating": 2,
+      "description": "Nullam dolor nisl, vehicula et magna ultrices, blandit fermentum metus. Pellentesque at venenatis tellus. Nam a sapien faucibus, egestas magna ut, bibendum risus. Nulla facilisi. Vivamus ornare urna nec tincidunt porttitor. Phasellus hendrerit nulla eget ultricies aliquet. Phasellus enim sapien, efficitur et commodo eu",
+      "image": "https://m.media-amazon.com/images/I/81cwIdlEXwL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 13,
+      "title": "LG K31 Unlocked Smartphone – 32 GB – Silver (Made for US by LG) – Verizon, AT&T, T–Mobile, Metro, Cricket (Universal Compatibility)",
+      "price": 488,
+      "category": "phone",
+      "rating": 3,
+      "description": "Donec eu euismod ligula. Phasellus laoreet neque et ligula commodo, non posuere diam placerat. Pellentesque elementum lorem elit, mattis suscipit leo vulputate sed. Phasellus interdum neque sed imperdiet condimentum. Fusce in efficitur tortor. In hac habitasse platea dictumst.",
+      "image": "https://m.media-amazon.com/images/I/71e9Fldc7dL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Samsung Galaxy S9, 64GB, Lilac Purple - Fully Unlocked (Renewed)",
+      "price": 250,
+      "category": "phone",
+      "rating": 3.7,
+      "description": "Proin non tristique dui, convallis consectetur enim. Donec quis lobortis urna. Praesent ultrices blandit consectetur. Curabitur vulputate sem ut sapien consectetur aliquam. Fusce a felis pharetra risus vestibulum blandit. Nullam eget gravida enim. Etiam blandit, augue quis vulputate porttitor, tortor purus tincidunt nisi, quis consequat ante leo ullamcorper nibh. Nulla mi tellus, mollis a velit vitae, maximus sodales lorem.",
+      "image": "https://m.media-amazon.com/images/I/61ktW8ONmkL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Tracfone Carrier-Locked LG Classic Flip 4G LTE Prepaid Flip Phone- Black - 4GB - Sim Card Included – CDMA, TFLGL125DCP",
+      "price": 30,
+      "category": "phone",
+      "rating": 5,
+      "description": "Proin convallis tortor non magna laoreet, vitae ullamcorper mi cursus. Aliquam mollis laoreet metus, tempus feugiat mauris eleifend sit amet. Morbi eleifend, arcu et varius ornare, massa ex placerat lacus, a rhoncus erat ante a mi. Fusce gravida sapien ut pellentesque imperdiet. ",
+      "image": "https://m.media-amazon.com/images/I/71xlFIvIS-L._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Marvel's Spider-Man: Miles Morales Launch Edition - PlayStation 4",
+      "price": 60,
+      "category": "video games",
+      "rating": 5,
+      "description": "Nunc elit lacus, commodo eget elit at, rhoncus pellentesque diam. Aliquam scelerisque vitae tellus et sollicitudin. Nullam maximus, urna quis eleifend euismod, odio dui sagittis quam, nec ultrices ante tellus quis arcu. Morbi facilisis justo quis dui euismod aliquet. Mauris ipsum elit, vulputate in quam ut, sagittis pellentesque eros. ",
+      "image": "https://m.media-amazon.com/images/I/71dtn2ZMs7L._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Marvel's Avengers for PlayStation 4",
+      "price": 50,
+      "category": "video games",
+      "rating": 1,
+      "description": "Pellentesque nec justo et orci egestas congue. Nulla viverra ac dolor imperdiet accumsan. Ut viverra porttitor nulla, ac vestibulum mi laoreet vel. Nunc bibendum nisi sed metus pulvinar, nec imperdiet urna pharetra. Donec semper, leo ut dapibus finibus, magna tortor ornare lectus, at ultricies elit tellus non diam. Vestibulum pharetra dui convallis maximus bibendum.",
+      "image": "https://m.media-amazon.com/images/I/81DugevkxJL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Ghost of Tsushima - PlayStation 4",
+      "price": 60,
+      "category": "video games",
+      "rating": 3.5,
+      "description": "Suspendisse imperdiet semper augue, sed lacinia purus placerat non. Fusce hendrerit nulla quis massa rhoncus dapibus. Morbi sollicitudin tempus eros eget elementum. Fusce a risus eget ligula eleifend pharetra. Donec sed ornare augue. Aliquam vel posuere dolor, et feugiat lorem. ",
+      "image": "https://m.media-amazon.com/images/I/81Bzm37TIaL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Lego Marvel Collection - PlayStation 4",
+      "price": 60,
+      "category": "video games",
+      "rating": 4.5,
+      "description": "Proin at nisi a lectus commodo elementum. Sed pellentesque iaculis dolor, at tincidunt metus accumsan quis. In hac habitasse platea dictumst. Duis sed sapien ipsum. Nulla a porta est. Aliquam posuere imperdiet dictum. Quisque at sem sem. Mauris id augue a nunc pellentesque euismod. Etiam aliquam bibendum magna, a ultrices ligula sollicitudin a. Mauris venenatis neque faucibus ex aliquam, id accumsan neque convallis. Nam gravida urna libero, et ornare est placerat auctor.",
+      "image": "https://m.media-amazon.com/images/I/91Z5HB33cAL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Minecraft Starter Collection - PlayStation 4",
+      "price": 60,
+      "category": "video games",
+      "rating": 2.5,
+      "description": "Aenean in mauris sed lacus aliquam interdum. Sed semper nulla elit, eget accumsan urna dictum at. Suspendisse ullamcorper erat pretium molestie elementum. Mauris tincidunt mauris massa, eget malesuada orci condimentum non. Pellentesque luctus velit tellus, non congue felis dictum at. ",
+      "image": "https://m.media-amazon.com/images/I/71AKO+U6F6L._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 21,
+      "title": "LEGO Disney Pixar's The Incredibles - PS4",
+      "price": 60,
+      "category": "video games",
+      "rating": 4,
+      "description": "Aliquam bibendum sed nisi a maximus. Nulla facilisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc accumsan leo nulla, vitae ultricies mi bibendum sed. Pellentesque aliquet tempus tellus ac interdum. Sed condimentum dapibus metus in finibus. Morbi suscipit mauris sem, nec auctor sem sodales sit amet. Cras ante nisl, imperdiet a laoreet congue, venenatis a arcu.",
+      "image": "https://m.media-amazon.com/images/I/81qTRHW2NvL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Wreckfest - PlayStation 4",
+      "price": 20,
+      "category": "video games",
+      "rating": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu semper ex. Cras sed efficitur arcu. Aenean accumsan semper sagittis. Donec augue lectus, ultricies at nibh a, consectetur mattis felis. Pellentesque in odio erat. Vestibulum tristique porttitor erat, sit amet placerat massa accumsan sed. ",
+      "image": "https://m.media-amazon.com/images/I/817YZuX9jzL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Honey-Can-Do Double Cereal Dispenser with Portion Control, Red and Chrome",
+      "price": 1600,
+      "category": "appliances",
+      "rating": 4.2,
+      "description": "Suspendisse ut ullamcorper nisi. Praesent tempus lectus in risus suscipit, sit amet congue tellus porta. Pellentesque ac ante faucibus, ultrices turpis vitae, semper elit. Donec ullamcorper tortor id mauris vestibulum finibus. Mauris sollicitudin pharetra quam, id mattis nulla interdum eget. Quisque ut risus nibh. Pellentesque tempor eros nec ultricies blandit.",
+      "image": "https://m.media-amazon.com/images/I/91shYiphxCL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Holstein Housewares HH-0937012SS Omelet Maker, Black",
+      "price": 360,
+      "category": "appliances",
+      "rating": 5,
+      "description": "Integer id volutpat magna, sed volutpat sem. Proin tempor efficitur dictum. Nullam vestibulum sed mauris eu finibus. Maecenas tempor nibh et orci facilisis varius. Praesent dui massa, gravida sit amet egestas non, vestibulum sit amet sem. Nulla et sodales nulla, eget rutrum libero. In hac habitasse platea dictumst. ",
+      "image": "https://m.media-amazon.com/images/I/71cXomdrdYL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Cuisinart ICE-45P1 Mix Serve 1.5-Quart Soft Service Ice Cream Maker, White",
+      "price": 760,
+      "category": "appliances",
+      "rating": 4.5,
+      "description": "Aliquam erat volutpat. Sed nec risus eget leo aliquet laoreet. Cras nec accumsan ex. Aliquam congue est ex, nec convallis lectus pulvinar in. Vivamus sit amet sapien vitae sapien aliquam consequat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam in ligula a massa consectetur auctor id id turpis. In ultrices lacus lacus, sit amet euismod ex finibus a. Nulla pellentesque dolor eget est malesuada accumsan nec vitae massa.",
+      "image": "https://m.media-amazon.com/images/I/71OENKLO7JL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Philips Kitchen Appliances Digital Twin TurboStar Airfryer XXL, with Fat Removal Technology, 3 Lbs, Black, HD9650/96",
+      "price": 350,
+      "category": "appliances",
+      "rating": 3.3,
+      "description": "Nunc lobortis lacus eu magna volutpat facilisis. Integer et felis et dolor tristique mattis et a libero. Sed neque nunc, posuere a hendrerit luctus, ornare eget nisl. Nullam felis urna, ullamcorper ut justo vel, feugiat viverra sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse pellentesque molestie pretium. Donec aliquam tempor lorem, eu eleifend nulla hendrerit vitae. Donec condimentum aliquam mattis. Morbi ut viverra elit, eget rutrum velit.",
+      "image": "https://m.media-amazon.com/images/I/61o899tlmvL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 27,
+      "title": "Philips Kitchen Appliances Philips Soup Maker, Makes 2 - 4 Servings, HR2204/70, 1.2 Liters, Black and Stainless Steel",
+      "price": 600,
+      "category": "appliances",
+      "rating": 3.1,
+      "description": "Maecenas eget pretium nunc, ac blandit nibh. Maecenas dignissim sagittis tincidunt. Aliquam nibh mi, tristique vel semper nec, maximus nec metus. Duis ac pharetra elit. Morbi maximus dolor non felis mollis, eget facilisis dui facilisis. Nullam quam felis, imperdiet id sem eget, volutpat elementum odio. Quisque quis sollicitudin quam, eu dapibus risus. Ut ut sodales lacus.",
+      "image": "https://m.media-amazon.com/images/I/81-AyC+3UhL._AC_UL640_FMwebp_QL65_.jpg"
+    }
+  ]
+}

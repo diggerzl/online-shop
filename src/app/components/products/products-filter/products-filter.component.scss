@@ -1,0 +1,11 @@
+select, select option {
+  text-transform: capitalize;
+}
+
+.form-check {
+  cursor: pointer;
+
+  input {
+    pointer-events: none;
+  }
+}

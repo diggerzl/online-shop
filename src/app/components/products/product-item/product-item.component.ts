@@ -1,0 +1,20 @@
+import { ChangeDetectionStrategy, Component, EventEmitter, Input, Output } from '@angular/core';
+import { Product } from '../../../models/product.model';
+
+@Component({
+  selector: 'app-product-item',
+  templateUrl: './product-item.component.html',
+  styleUrls: ['./product-item.component.scss'],
+  changeDetection: ChangeDetectionStrategy.OnPush,
+})
+export class ProductItemComponent {
+  @Input()
+  product: Product;
+
+  @Output()
+  addToCartClicked: EventEmitter<Product> = new EventEmitter<Product>();
+
+  @Output()
+  viewClicked: EventEmitter<Product> = new EventEmitter<Product>();
+
+}

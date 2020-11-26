@@ -1,0 +1,11 @@
+.product-item {
+  .product-image {
+    height: 200px;
+    max-width: 100%;
+    object-fit: contain;
+  }
+
+  .price {
+    font-weight: bold;
+  }
+}
