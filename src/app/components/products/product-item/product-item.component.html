@@ -1,0 +1,34 @@
+<div
+  class="card mb-4 box-shadow product-item"
+  *ngIf="product"
+  (click)="handleItemClick($event)"
+>
+  <img
+    class="card-img-top product-image"
+    [src]="product.image"
+    [alt]="product.title"
+  >
+  <div class="card-body">
+    <p class="card-text text-truncate" [title]="product.title">
+      {{product.title}}
+    </p>
+
+    <div class="d-flex justify-content-between mb-2">
+      <div class="price">
+        ${{product.price}}
+      </div>
+      <div class="text-secondary">
+        {{product.rating}} / 5
+      </div>
+    </div>
+
+    <div class="d-flex justify-content-between align-items-center">
+      <button type="button" class="btn btn-sm btn-outline-secondary" (click)="handleItemClick($event)">
+        View
+      </button>
+      <button type="button" class="btn btn-sm btn-outline-primary" (click)="addToCart($event)">
+        Add to cart
+      </button>
+    </div>
+  </div>
+</div>

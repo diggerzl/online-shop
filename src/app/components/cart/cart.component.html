@@ -1,0 +1,18 @@
+<h1 class="mb-4">
+  Shopping cart
+</h1>
+
+<div class="list-group list-group-flush mb-4">
+  <app-cart-item
+    *ngFor="let cartItem of cart$ | async"
+    [cartItem]="cartItem"
+    (plusClicked)="addOneItem($event.product)"
+    (minusClicked)="removeOneItem($event.product)"
+  >
+    {{cartItem.product.title}} - {{cartItem.count}}
+  </app-cart-item>
+</div>
+
+<h5 *ngIf="total">
+  Total: <b>${{total}}</b>
+</h5>
