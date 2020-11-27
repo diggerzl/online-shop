@@ -1,9 +1,18 @@
 <div class="list-group-item cart-item">
-  <img [src]="product.image" [alt]="product.title" class="mr-2">
-  <div class="mr-4">{{product.title}}</div>
-  <div class="font-weight-bold ml-auto mr-4 price">${{product.price * cartItem.count}}</div>
+  <div class="image-container mr-4">
+    <img [src]="product.image" [alt]="product.title" class="mr-2">
+  </div>
+  <div class="mr-4">
+    <div>{{product.title}}</div>
+    <div class="text-secondary font-weight-light">
+      Customer rating: {{product.rating}} / 5
+    </div>
+  </div>
+  <div class="font-weight-bold ml-auto mr-4 price">
+    ${{product.price * cartItem.count}}
+  </div>
 
-  <div class="btn-group ml-auto" role="group" aria-label="Count">
+  <div class="btn-group" role="group" aria-label="Count">
     <button type="button" class="btn btn-secondary" (click)="minusClicked.emit(cartItem)">-</button>
     <button type="button" class="btn btn-outline-secondary" disabled>{{cartItem.count}}</button>
     <button type="button" class="btn btn-secondary" (click)="plusClicked.emit(cartItem)">+</button>

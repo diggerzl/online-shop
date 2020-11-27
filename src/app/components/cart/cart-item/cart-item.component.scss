@@ -2,7 +2,14 @@
   display: flex;
   align-items: center;
 
-  img {
-    height: 100px;
+  .image-container {
+    width: 160px;
+    height: 90px;
+
+    img {
+      width: inherit;
+      height: inherit;
+      object-fit: contain;
+    }
   }
 }

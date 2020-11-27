@@ -1,4 +1,8 @@
-<div class="card mb-4 box-shadow product-item" *ngIf="product">
+<div
+  class="card mb-4 box-shadow product-item"
+  *ngIf="product"
+  (click)="handleItemClick($event)"
+>
   <img
     class="card-img-top product-image"
     [src]="product.image"
@@ -19,10 +23,10 @@
     </div>
 
     <div class="d-flex justify-content-between align-items-center">
-      <button type="button" class="btn btn-sm btn-outline-secondary" (click)="viewClicked.emit(product)">
+      <button type="button" class="btn btn-sm btn-outline-secondary" (click)="handleItemClick($event)">
         View
       </button>
-      <button type="button" class="btn btn-sm btn-outline-primary" (click)="addToCartClicked.emit(product)">
+      <button type="button" class="btn btn-sm btn-outline-primary" (click)="addToCart($event)">
         Add to cart
       </button>
     </div>

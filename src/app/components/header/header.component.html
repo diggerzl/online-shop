@@ -15,8 +15,8 @@
         <li class="nav-item" routerLinkActive="active" routerLink="/cart">
           <a class="nav-link">
             View Cart
-            <span class="badge badge-pill badge-danger" *ngIf="itemsInCartCount$ | async">
-              {{itemsInCartCount$ | async}}
+            <span class="badge badge-pill badge-danger" *ngIf="(itemsInCartCount$ | async) as count">
+              {{count}}
             </span>
           </a>
         </li>

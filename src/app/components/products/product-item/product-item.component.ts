@@ -17,4 +17,13 @@ export class ProductItemComponent {
   @Output()
   viewClicked: EventEmitter<Product> = new EventEmitter<Product>();
 
+  handleItemClick(event: MouseEvent): void {
+    event.stopPropagation();
+    this.viewClicked.emit(this.product);
+  }
+
+  addToCart(event: MouseEvent): void {
+    event.stopPropagation();
+    this.addToCartClicked.emit(this.product);
+  }
 }
